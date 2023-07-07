@@ -7,6 +7,7 @@
 Projede Get paketi ile sayfa geçişi, detaylar sayfasına argüman gönderme ve dependency injection işlemleri yapıldı.  
 Http paketi ile de api'ye istek atıldı.  
 Uygulama içerisinde arama özelliği kişinin adını birebir yazdığımızda çalışıyor.  
+Projeyi __git clone__ yaparak bilgisayarınıza kurabilirsiniz.
 **Kullandığım Paketler**  
 get: ^4.6.5  
 http: ^1.1.0  
